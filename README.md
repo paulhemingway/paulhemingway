@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Developer
 ---------------------------
 
-I'm a rising senior at the University of Missouri-Columbia, majoring in IT and minoring in Computer Science and Business. I'm currently searching for full-time new grad software developer positions.
+I'm a senior at the University of Missouri-Columbia, majoring in IT and minoring in Computer Science and Business. I'm currently searching for full-time new grad software developer positions.
 
 * 🌍  I'm based in Kansas City, MO
 * 🖥️  See my portfolio at [Personal Portfolio](http://paulhemingway.github.io)
